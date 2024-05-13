@@ -4,8 +4,8 @@
 </p>
 
 ## Description
-* A pytorch implementation of [Attentive Neural Process](https://arxiv.org/abs/1901.05761).
-* Simple code for generating samples with ANP.
+* A pytorch implementation of [Attentive Neural Process]
+* We published the dataset at https://www.kaggle.com/datasets/kevin7323/multi-domain-neural-process-data
 * I will update the super-resolution experiments soon.
 
 ## Requirements
